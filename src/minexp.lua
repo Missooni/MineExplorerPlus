@@ -41,7 +41,7 @@
 -- Do not keep anything important in the recycling folder!
 -- Use 'Undo' if you accidentally delete an important file.
 
-recycleDir = "temp/minexp/"
+recycleDir = "/temp/minexp/"
 cfgDir = "usr/minexp/"
 
 --
